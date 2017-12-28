@@ -5,8 +5,10 @@
  - 吴飞群/男/1990 
  - 本科/河北科技大学 
  - 工作年限：5年
- - 技术博客：https://github.com/hellorocky/blog
+ - 联系电话：17600466728
+ - 微信/QQ：1137349475
  - Github：https://github.com/hellorocky
+ - 技术博客：https://github.com/hellorocky/blog
 
  - 期望职位：运维开发工程师, 后端开发工程师
 
