@@ -6,6 +6,7 @@
  - 本科/河北科技大学 
  - 工作年限：5年
  - 微信/QQ：1137349475
+ - 电话: 17600466728
  - Github：[https://github.com/hellorocky](https://github.com/hellorocky)
  - 技术博客：[https://github.com/hellorocky/blog](https://github.com/hellorocky/blog)
 
