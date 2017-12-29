@@ -92,6 +92,7 @@
 - 前端框架：Bootstrap/JQuery/Vue
 - 数据库：MySQL
 - 队列缓存: RabbitMQ/Redis
+- 编辑器/IDE: 脚本编辑使用VIM/大项目使用IDEA/Pycharm
 - 版本管理、文档和自动化部署工具：Git/Markdown/Ansible/Fabric
 - 公有云：熟悉阿里云各个产品, 并了解其使用场景, 其他云厂商也有了解
       
