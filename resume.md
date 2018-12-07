@@ -4,18 +4,16 @@
 
  - 吴飞群/男/1990 
  - 本科/河北科技大学 
- - 工作年限：5年
+ - 工作年限：6年
  - 微信/QQ：1137349475
  - 电话: 17600466728
  - Github：[https://github.com/hellorocky](https://github.com/hellorocky)
- - 技术博客：[https://github.com/hellorocky/blog](https://github.com/hellorocky/blog)
-
  - 期望职位：运维开发工程师, 后端开发工程师
 
 
 # 工作经历
 
-## 一下科技 (2017年5月-至今）
+## 一下科技 (2017年6月-至今）
 
 ### 资源管理系统 
 
