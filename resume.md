@@ -3,15 +3,15 @@
 
  - 姓名: 吴飞群
  - 出生年月: 1990年7月 
- - 邮箱: feiqun.wu@gmail.com / wufeiqun_cn@126.com
+ - 邮箱: feiqun.wu@gmail.com / feiqun.wu@qq.com
  - 电话: 17600466728(同微信)
  - Github: [https://github.com/wufeiqun](https://github.com/wufeiqun)
- - 职位: Java开发工程师 / 运维开发工程师
+ - 职位: 运维开发工程师 / 运维工程师 / Java开发工程师
 
 
 # 教育经历
 
-* 本科 2009.9-2013.6 河北科技大学 金属材料专业
+* 统招本科 2009.9-2013.6 河北科技大学
 
 # 技能清单
 
@@ -21,26 +21,25 @@
  - Java 主编程语言, 一些大型后端项目会用到
  - Python 小型项目, 运维自动化, 爬虫, 数据处理等场景会使用
  - Shell 运维自动化,线上debug等场景会用到
- - JavaScript 能够熟练使用Vue进行各种后管系统的开发
+ - Vue 能够熟练使用Vue进行各种后管系统的开发
 
 * Web框架
- - Spring全家桶 大型项目会用到
- - Django 中小型内部平台会用到
+ - Spring全家桶
 
 * 数据库&存储&消息队列
   - MySQL 了解常见的SQL优化技巧, 能够根据业务场景编写较为复杂的SQL语句
   - Redis 熟悉常见的缓存使用场景, 能够在项目中熟练使用
-  - RocketMQ/RabbitMQ 熟练使用
+  - RocketMQ 熟练使用
+  - ElasticSearch 熟练使用
 
-* 数据结构&算法
-  - 熟练掌握常见的数据结构和算法并能够在项目中灵活运用
+* 云服务
+  - 熟悉各个主流云厂商的服务, 能根据公司实际情况选型配置
 
-* 操作系统&容器
+* 操作系统&云原生
   - 多年Linux运维经验, 熟练掌握常见问题排查命令工具
- - 参与过SpringCloud微服务容器化的过度, 有相关的经验.
+  - 参与过SpringCloud微服务容器化的过度, 有相关的经验.
+  - 熟悉各大主流厂商Kubernetes服务
 
-* RPC
- - 熟练使用dubbo框架
 
 ## 个人亮点
 
