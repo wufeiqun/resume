@@ -3,6 +3,7 @@
 
  - 姓名: 吴飞群
  - 出生年月: 1990年7月 
+ - 籍贯: 河北邯郸
  - 邮箱: feiqun.wu@gmail.com
  - 电话: 17600466728(同微信)
  - Github: [https://github.com/wufeiqun](https://github.com/wufeiqun)
