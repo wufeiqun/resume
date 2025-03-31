@@ -20,7 +20,7 @@
 
 * 熟悉主流云厂商的服务, 能根据公司实际情况开发DevOps运维平台，支持业务合理有效使用公有云
 * 擅长各类中间件服务的运维工作, 比如MySQL/Redis/Rocketmq/ElasticSearch等
-* 熟悉Prometheus/OpenTelemetry/Grafana/ELK等常见监控报警日志等方案
+* 熟悉Prometheus/OpenTelemetry/Grafana/ELK等常见`监控报警`和`日志`等方案
 * 熟练掌握Jenkins/Gitlab/Nexus等CICD工具, 并且有能力根据公司需求自研CICD工具
 * 10年Linux运维经验,具备丰富熟练的故障排查解决经验
 * 熟悉Docker/Kubernetes及相关云原生技术, 完整经历过多家公司的容器化项目落地
@@ -28,7 +28,7 @@
 ### 开发技能
 
 * Java, 可以独立使用Java开发DevOps运维平台 (主编程语言)
-* Python, 运维自动化/爬虫/数据处理等场景会用到
+* Golang/Python, 自动化工具/爬虫/数据处理等场景会用到
 * Shell, 运维自动化/排产线上问题会用到
 * Vue3, 能够熟练使用Vue3进行各种后管系统的开发, 比如CMDB/运维平台等
 * SpringBoot, 熟练使用
